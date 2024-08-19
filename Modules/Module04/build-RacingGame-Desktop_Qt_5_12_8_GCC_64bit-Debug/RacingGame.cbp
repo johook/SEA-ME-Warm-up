@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="RacingGame"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\Qt5.12.8\;CMake Files\..\..\..\..\Qt5.12.8\5.12.8\;CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\;CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\;CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\;CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5\;CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\;CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RacingGame">
+				<Option output="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/RacingGame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug"/>
+					<Add directory="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame"/>
+					<Add directory="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/RacingGame_autogen/include"/>
+					<Add directory="/home/jo/Qt5.12.8/5.12.8/gcc_64/include"/>
+					<Add directory="/home/jo/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets"/>
+					<Add directory="/home/jo/Qt5.12.8/5.12.8/gcc_64/include/QtGui"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/home/jo/Qt5.12.8/5.12.8/gcc_64/include/QtCore"/>
+					<Add directory="/home/jo/Qt5.12.8/5.12.8/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 RacingGame"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RacingGame/fast">
+				<Option output="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/RacingGame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug"/>
+					<Add directory="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame"/>
+					<Add directory="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/RacingGame_autogen/include"/>
+					<Add directory="/home/jo/Qt5.12.8/5.12.8/gcc_64/include"/>
+					<Add directory="/home/jo/Qt5.12.8/5.12.8/gcc_64/include/QtWidgets"/>
+					<Add directory="/home/jo/Qt5.12.8/5.12.8/gcc_64/include/QtGui"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/home/jo/Qt5.12.8/5.12.8/gcc_64/include/QtCore"/>
+					<Add directory="/home/jo/Qt5.12.8/5.12.8/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 RacingGame/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RacingGame_autogen">
+				<Option working_dir="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 RacingGame_autogen"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/car.cpp">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/car.h">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/carthread.cpp">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/carthread.h">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/main.cpp">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/mainwindow.cpp">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/mainwindow.h">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/mainwindow.ui">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/racetrack.cpp">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/racetrack.h">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/RacingGame_autogen/include/ui_mainwindow.h">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/build-RacingGame-Desktop_Qt_5_12_8_GCC_64bit-Debug/RacingGame_autogen/mocs_compilation.cpp">
+			<Option target="RacingGame"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/jo/SEA-ME-warm-up/Modules/Module04/RacingGame/../../../../Qt5.12.8/5.12.8/gcc_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Qt5.12.8\5.12.8\gcc_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
